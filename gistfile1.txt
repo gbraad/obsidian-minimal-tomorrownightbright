@@ -1,0 +1,15 @@
+:root {
+  --h1:1.75em;
+  --h2:1.4em;
+  --h3:1.2em;
+  --h4:1.1em;
+  --h5:1.0em;
+  --h6:1.0em;
+
+  --h1-color:#B9CA4A;
+  --h2-color:#B9CA4A;
+  --h3-color:#B9CA4A;
+  --h4-color:#B9CA4A;
+  --h5-color:#B9CA4A;
+  --h6-color:#B9CA4A;
+}
